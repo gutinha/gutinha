@@ -39,4 +39,4 @@ function Gutinha(){
 #### Rede Sociais!
 
 🏡 Discord: Guta#2214 **|** 
-📺 [youtube][youtube] **|** 
+📺 [Youtube][youtube] **|** 
