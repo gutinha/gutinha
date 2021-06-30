@@ -10,7 +10,7 @@ function Gutinha(){
   $area = "Estudando SI 3° Período";
  
   $primarySkillset = "VS Code, Eclipse, MYSQL";
-  $languages = array("HTML", "CSS", "PHP", "Java", "JavaScript", "LUA");
+  $languages = array("HTML", "CSS", "Java", "JavaScript", "LUA");
 
 }
 ```
