@@ -42,4 +42,4 @@ function Gutinha(){
 🏡 Discord: Guta#2214 **|** 
 📺 [Youtube][youtube] **|** 
 
-https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
+<code><img height="100" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"></code>
