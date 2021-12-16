@@ -9,8 +9,8 @@ function Gutinha(){
   $name = "Gustavo Mendes";
   $area = "Estudando SI 3° Período";
  
-  $primarySkillset = "VS Code, Eclipse, MYSQL";
-  $languages = array("HTML", "CSS", "Java", "JavaScript", "LUA");
+  $primarySkillset = "Eclipse, MYSQL, JSF";
+  $languages = array("HTML", "CSS", "Java", "JavaScript", "LUA", "PostgreSQL");
 
 }
 ```
