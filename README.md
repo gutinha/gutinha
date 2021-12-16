@@ -38,7 +38,7 @@ function Gutinha(){
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
 <br>
 
-#### Rede Sociais!
+## Rede Sociais!
 
 🏡 Discord: Guta#2214 **|** 
 📺 [Youtube][youtube] **|** 
