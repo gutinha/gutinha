@@ -11,6 +11,8 @@ function Gutinha(){
  
   $primarySkillset = "Eclipse, MYSQL, JSF";
   $languages = array("HTML", "CSS", "Java", "JavaScript", "LUA", "PostgreSQL");
+  $languagesLeraning = array("C#", "C++");
+  
 
 }
 ```
