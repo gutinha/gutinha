@@ -7,9 +7,9 @@
 ```php
 function Gutinha(){
   $name = "Gustavo Mendes";
-  $area = "Estudando SI 4° Período";
+  $area = "Estudando SI 5° Período";
  
-  $primarySkillset = "Eclipse, MYSQL, PostgreSQL, SQLServer";
+  $primarySkillset = "Eclipse, MYSQL, PostgreSQL, SQL";
   $languages = array("JSF(Framework Web)", "Java", "JavaScript", "LUA");
   $languagesLearning = array("C#", "C++");
   
