@@ -10,8 +10,8 @@ function Gutinha(){
   $area = "Estudando SI 5° Período";
  
   $primarySkillset = "Eclipse, MYSQL, PostgreSQL, SQL";
-  $languages = array("JSF(Framework Web)", "Java", "JavaScript", "LUA");
-  $languagesLearning = array("C#", "C++");
+  $languages = array("Java", "JavaScript", "LUA");
+  $languagesLearning = array("C#");
   
 
 }
