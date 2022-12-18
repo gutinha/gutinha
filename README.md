@@ -9,7 +9,7 @@ function Gutinha(){
   $name = "Gustavo Mendes";
   $area = "Estudando SI 5° Período";
  
-  $primarySkillset = "Eclipse, MYSQL, PostgreSQL, SQL";
+  $primarySkillset = "IntelliJ, MYSQL, SQL";
   $languages = array("Java", "JavaScript", "LUA");
   $languagesLearning = array("C#");
   
@@ -25,7 +25,6 @@ function Gutinha(){
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg"></code>
 </div>
 
