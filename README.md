@@ -31,8 +31,8 @@ function Gutinha(){
 
 ## **GitHub Estatísticas**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutinha&layout=compact&theme=dracula)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutinha&theme=dracula&show_icons=true)]
+![Top Langs](https://github-readme-stats-gutinha.vercel.app/api/top-langs/?username=gutinha&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-gutinha.vercel.app/api?username=gutinha&theme=dracula&show_icons=true)
 
 ## **Rede Sociais!**
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
