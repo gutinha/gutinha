@@ -28,7 +28,7 @@ function Gutinha(){
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg"></code>
 </div>
 
-
+<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api/top-langs/?username=gutinha&layout=compact&theme=dracula" />
