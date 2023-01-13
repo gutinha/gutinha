@@ -37,7 +37,7 @@ function Gutinha(){
 
 ## **Rede Sociais!**
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
-![Discord](https://dcbadge.vercel.app/api/shield/302563501183074315)
-📺 [Youtube][youtube] **|** 
+![Discord](https://dcbadge.vercel.app/api/shield/302563501183074315?style=flat) **|**
+📺 [Youtube][youtube]  
 
 ![Snake animation](https://github.com/gutinha/gutinha/blob/output/github-contribution-grid-snake.svg)
