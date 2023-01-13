@@ -31,8 +31,8 @@ function Gutinha(){
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api/top-langs/?username=gutinha&layout=compact&theme=dracula" />
-  <img align="right" alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api?username=gutinha&theme=dracula&show_icons=true" />
+  <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api/top-langs/?username=gutinha&layout=compact&theme=dracula" />
+  <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api?username=gutinha&theme=dracula&show_icons=true" />
 </details>
 
 ## **Rede Sociais!**
