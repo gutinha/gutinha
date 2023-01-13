@@ -30,7 +30,6 @@ function Gutinha(){
   </div>
 </details>
 
-<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api/top-langs/?username=gutinha&layout=compact&theme=dracula" />
