@@ -7,7 +7,7 @@
 ```php
 function Gutinha(){
   $name = "Gustavo Mendes";
-  $area = "Estudando SI 5° Período";
+  $area = "Estudando SI 6° Período";
  
   $primarySkillset = "IntelliJ, MYSQL, SQL";
   $languages = array("Java", "JavaScript", "LUA");
@@ -37,7 +37,7 @@ function Gutinha(){
 
 ## **Rede Sociais!**
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
-🏡 Discord: Guta#2214 **|** 
+![Discord](https://dcbadge.vercel.app/api/shield/302563501183074315)
 📺 [Youtube][youtube] **|** 
 
 ![Snake animation](https://github.com/gutinha/gutinha/blob/output/github-contribution-grid-snake.svg)
