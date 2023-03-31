@@ -9,7 +9,7 @@ function Gutinha(){
   $name = "Gustavo Mendes";
   $area = "Estudando SI 6° Período";
  
-  $primarySkillset = "IntelliJ, MYSQL, SQL";
+  $primarySkillset = "IntelliJ, MYSQL, SQL, Visual Studio";
   $languages = array("Java", "JavaScript", "LUA");
   $languagesLearning = array("C#");
   
