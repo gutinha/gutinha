@@ -7,12 +7,10 @@
 ```php
 function Gutinha(){
   $name = "Gustavo Mendes";
-  $area = "Estudando SI 6° Período";
+  $area = "Estudando SI 7° Período";
  
   $primarySkillset = "IntelliJ, MYSQL, SQL, Visual Studio";
-  $languages = array("Java", "JavaScript", "LUA");
-  $languagesLearning = array("C#");
-  
+  $languages = array("C#","Java", "JavaScript", "LUA");
 
 }
 ```
