@@ -7,7 +7,7 @@
 ```php
 function Gutinha(){
   $name = "Gustavo Mendes";
-  $area = "Estudando SI 7° Período";
+  $area = "Estudando SI 8° Período";
 }
 ```
 
