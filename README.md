@@ -10,11 +10,6 @@ function Gutinha(){
   $area = "Estudando SI 8° Período";
 }
 ```
-
-## **Hobbies!**
-[youtube]: https://www.youtube.com/c/GutaxavierGraphics
-📺 [Youtube - Edição de videos][youtube]
-
 <details>
   <summary>:zap: Languages and Tools</summary>
   <div style="display: inline_block"><br>
@@ -36,7 +31,11 @@ function Gutinha(){
   <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api?username=gutinha&theme=dracula&show_icons=true" />
 </details>
 
+## **Hobbies!**
+[youtube]: https://www.youtube.com/c/GutaxavierGraphics
+📺 [Youtube - Edição de videos][youtube]
+
 ## **Rede Sociais!**
 ![](https://dcbadge.vercel.app/api/shield/302563501183074315?style=flat) **|** 
-
+![](https://www.linkedin.com/in/gutinha/) **Linkedin|** 
 ![Snake animation](https://github.com/gutinha/gutinha/blob/output/github-contribution-grid-snake.svg)
