@@ -4,10 +4,17 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```php
-function Gutinha(){
-  $name = "Gustavo Mendes";
-  $area = "Estudando SI 8° Período";
+```C#
+public class Gutinha
+{
+    public string Name { get; set; }
+    public string Area { get; set; }
+
+    public Gutinha()
+    {
+        Name = "Gustavo Mendes";
+        Area = "Estudando SI 8° Período";
+    }
 }
 ```
 <details>
@@ -21,7 +28,7 @@ function Gutinha(){
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg"></code>
+    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"></code>
   </div>
 </details>
 
@@ -35,7 +42,12 @@ function Gutinha(){
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
 📺 [Youtube - Edição de videos][youtube]
 
+🎮 Programação e administração de servidores (Minecraft e Tíbia)
+
 ## **Rede Sociais!**
 ![](https://dcbadge.vercel.app/api/shield/302563501183074315?style=flat) **|** 
-![Linkedin](https://www.linkedin.com/in/gutinha/) **|** 
+<a href="https://www.linkedin.com/in/gutinha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>**|** 
+
 ![Snake animation](https://github.com/gutinha/gutinha/blob/output/github-contribution-grid-snake.svg)
