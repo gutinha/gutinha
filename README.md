@@ -37,5 +37,5 @@ function Gutinha(){
 
 ## **Rede Sociais!**
 ![](https://dcbadge.vercel.app/api/shield/302563501183074315?style=flat) **|** 
-![](https://www.linkedin.com/in/gutinha/) **Linkedin|** 
+![Linkedin](https://www.linkedin.com/in/gutinha/) **|** 
 ![Snake animation](https://github.com/gutinha/gutinha/blob/output/github-contribution-grid-snake.svg)
