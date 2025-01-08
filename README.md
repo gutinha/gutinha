@@ -38,18 +38,18 @@ public class Gutinha
   <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api?username=gutinha&theme=dracula&show_icons=true" />
 </details>
 
-## **Hobbies!**
+## **Hobbies**
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
 📺 [Youtube - Edição de videos][youtube]
 
 🎮 Programming and server administration (Minecraft and Tibia)
 
-## **Social Media!**
+## **Social Media**
 ![](https://dcbadge.vercel.app/api/shield/302563501183074315?style=flat) **|** 
 <a href="https://www.linkedin.com/in/gutinha/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>**|** 
 
-## **Portfolio items that are private!**
+## **Portfolio items that are active**
 [pkmd]: https://www.pkmdoido.com.br/
 [PKMD - Pokémon Doido][pkmd]
