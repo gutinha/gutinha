@@ -53,5 +53,3 @@ public class Gutinha
 ## **Portfolio items that are private!**
 [pkmd]: https://www.pkmdoido.com.br/
 [PKMD - Pokémon Doido][pkmd]
-
-![Snake animation](https://github.com/gutinha/gutinha/blob/output/github-contribution-grid-snake.svg)
