@@ -42,12 +42,16 @@ public class Gutinha
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
 📺 [Youtube - Edição de videos][youtube]
 
-🎮 Programação e administração de servidores (Minecraft e Tíbia)
+🎮 Programming and server administration (Minecraft and Tibia)
 
-## **Rede Sociais!**
+## **Social Media!**
 ![](https://dcbadge.vercel.app/api/shield/302563501183074315?style=flat) **|** 
 <a href="https://www.linkedin.com/in/gutinha/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>**|** 
+
+## **Portfolio items that are private!**
+[pkmd]: https://www.pkmdoido.com.br/
+[PKMD - Pokémon Doido][pkmd]
 
 ![Snake animation](https://github.com/gutinha/gutinha/blob/output/github-contribution-grid-snake.svg)
