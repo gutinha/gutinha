@@ -13,7 +13,7 @@ public class Gutinha
     public Gutinha()
     {
         Name = "Gustavo Mendes";
-        Area = "Estudando SI 8° Período";
+        Area = "System Analist";
     }
 }
 ```
@@ -46,7 +46,7 @@ public class Gutinha
 
 ## **Social Media**
 ![](https://dcbadge.vercel.app/api/shield/302563501183074315?style=flat) **|** 
-<a href="https://www.linkedin.com/in/gutinha/">
+<a href="https://www.linkedin.com/in/gustavo-mendes-xavier/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>**|** 
 
