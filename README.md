@@ -52,6 +52,4 @@ public class Gutinha
 
 ## **Portfolio items that are active**
 [pkmd]: https://www.pkmdoido.com.br/
-[oldzen]: https://oldzen.com.br/
-[PKMD - Pokémon Doido][pkmd] -
-[Oldzen - Classic Tibia][oldzen]
+[PKMD - Pokémon Doido][pkmd]
