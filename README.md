@@ -32,12 +32,6 @@ public class Gutinha
   </div>
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api/top-langs/?username=gutinha&layout=compact&theme=dracula" />
-  <img  alt="Gutinha GitHub Stats" src="https://github-readme-stats-gutinha.vercel.app/api?username=gutinha&theme=dracula&show_icons=true" />
-</details>
-
 ## **Hobbies**
 [youtube]: https://www.youtube.com/c/GutaxavierGraphics
 📺 [Youtube - Edição de videos][youtube]
