@@ -48,5 +48,6 @@ public class Gutinha
 [pkmd]: https://www.pkmdoido.com.br/
 [evo-project]: https://evo-project.com/
 [cubonemacro]: https://cubonemacro.com/
-[PKMD - Pokémon Doido][pkmd] **|** [EVO進化-PROJECT][evo-project] **|** [CuboneMacro][cubonemacro]
+[datashine]: https://datashine.com.br/
+[PKMD - Pokémon Doido][pkmd] **|** [EVO進化-PROJECT][evo-project] **|** [CuboneMacro][cubonemacro] **|** [DataShine][datashine]
 
